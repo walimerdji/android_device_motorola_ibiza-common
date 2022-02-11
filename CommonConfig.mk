@@ -16,7 +16,7 @@
 BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
 # Common path
-COMMON_PATH := device/motorola/common
+COMMON_PATH := device/motorola/ibiza-common
 
 # Do not build proprietary capability
 TARGET_USES_AOSP := true
